@@ -1,4 +1,4 @@
-<<<<<<< HEADS1
+<<<<<<< HEADS12
 # Test12
 
 This README outlines the details of collaborating on this Ember application.
